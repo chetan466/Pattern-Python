@@ -1,2 +1,2 @@
 # Pattern-Python
-Hye iam chetan prajapat 
+pattern of pyhton
