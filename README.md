@@ -1,2 +1,2 @@
 # Pattern-Python
-pattern of pythonnn
+pattern of pythnn
