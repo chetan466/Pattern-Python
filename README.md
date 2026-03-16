@@ -1,1 +1,1 @@
-# Pattern-Pyth
+# Pattern-Python
